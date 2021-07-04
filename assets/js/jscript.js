@@ -54,7 +54,7 @@ $(function () {
     });
 });
 
-  $("#quienesomos").hover(function() {
+  $("#quienessomos").hover(function() {
     $(this).css('cursor','pointer').attr('title', 'Los mejores viajes estan junto a nosotros');
 }, function() {
     $(this).css('cursor','auto');

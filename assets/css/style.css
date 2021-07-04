@@ -7,6 +7,37 @@ body * {
     font-family: 'Open Sans', sans-serif;
   }
 
+  h1 {
+  
+    color: white!important;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+
+  h2 {
+    color: white!important;
+    text-align: center;
+    font-size:2.5em!important;
+    vertical-align: middle;
+    padding-top: 25px;
+    padding-bottom: 15px;
+  }
+  
+  h3 {
+    color: white!important;
+    text-align: center;
+    font-size:2.5em!important;
+    vertical-align: middle;
+    padding-top: 300px;
+  }
+  
+  h4 {
+  color: white!important;
+  font-size: 1.5em;
+  
+  }
+
 .imagen-viajes {
 max-width: 2.5%!important;
 
@@ -105,6 +136,11 @@ max-width: 2.5%!important;
   margin-right: 10px;
 }
 
+.fa-2x {
+  margin: 0 0.6em;
+  color: white!important;
+}
+
 .card {
   margin-right: 10px;
 }
@@ -118,43 +154,12 @@ max-width: 2.5%!important;
  
 }
 
-h1 {
-  
-  color: white!important;
-  padding-top: 50px;
-  padding-bottom: 20px;
-  text-align: center;
-}
-
-.linea { 
+ #linea { 
   color: #1798c1!important;
   background-color: #1798c1!important;
   margin-left: 35px;
   margin-right: 35px;
   
-}
-
-h2 {
-  color: white!important;
-  text-align: center;
-  font-size:2.5em!important;
-  vertical-align: middle;
-  padding-top: 25px;
-  padding-bottom: 15px;
-}
-
-h3 {
-  color: white!important;
-  text-align: center;
-  font-size:2.5em!important;
-  vertical-align: middle;
-  padding-top: 300px;
-}
-
-h4 {
-color: white!important;
-font-size: 1.5em;
-
 }
 
 .textos {
@@ -235,10 +240,5 @@ left: 20px;
 
 .fondo-footer {
   background-color: black;
-}
-
-.fa-2x {
-  margin: 0 0.3em;
-  color: white!important;
 }
 
